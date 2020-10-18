@@ -7,7 +7,8 @@
 ![nestjs](https://img.shields.io/badge/nestjs%20-red.svg)
 
 ## About Me
-- 👨🏼‍🏫 I am a student in the Internet Systems course at the **Instituto Federal do Rio Grande do Sul** and an intern developer at **Shareprime**
+- 📚 I am a student in the Internet Systems course at the **Instituto Federal do Rio Grande do Sul**
+- 💻 I am an intern developer at **Shareprime**
 - 🌱 I’m currently learning `node`,`reactjs`,`java` and `SpringBoot`
 - 📧 giovani_souzaboff@hotmail.com
 
