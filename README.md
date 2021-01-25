@@ -8,7 +8,7 @@
 
 ## About Me
 - 📚 I'm student in the Internet Systems course at the **Instituto Federal do Rio Grande do Sul**
-- 💻 I'm intern developer at **Shareprime**
+- 💻 I'm junior developer at **Shareprime**
 - 🌱 I'm currently learning `node`,`reactjs`,`java` and `SpringBoot`
 - 📧 giovani_souzaboff@hotmail.com
 
