@@ -3,7 +3,7 @@
   <a href="https://github.com/GiovaniBoff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaniBoff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniBoff&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+</div>
 
 ![typescript](https://img.shields.io/badge/typescript%20-blue.svg)
 ![node](https://img.shields.io/badge/node-green.svg)
