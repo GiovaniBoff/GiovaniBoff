@@ -15,8 +15,10 @@
 
 ## About Me
 - 📚 I'm student in the Internet Systems course at the **Instituto Federal do Rio Grande do Sul**
+- 👨🏽‍💻 Backend Developer, sometimes Frontend too.
 - 💻 In transition from Junior to mid level
-- 🌱 I'm currently learning `node`,`java` and `SpringBoot`
-- 📧 giovani_souzaboff@hotmail.com
+- ![image](https://user-images.githubusercontent.com/42684243/136713929-030ad2e5-ad39-472c-8d97-6a8a639c79af.png) Java ![image](https://user-images.githubusercontent.com/42684243/136713938-750f8107-8ea2-4d66-9052-1f6d41a95433.png) TypeScript
 
+- 🌱 I'm currently learning ,`Java`,`Node`,`TypeScript` and 
+- 📧 giovani_souzaboff@hotmail.com
 
