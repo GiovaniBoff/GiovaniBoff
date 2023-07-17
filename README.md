@@ -1,10 +1,9 @@
 ### Hi, I'm Giovani! 👋
 
-- 📚 I'm student in the Internet Systems course at the **Instituto Federal do Rio Grande do Sul**
+- 📚 I'm graduated in internet systems at the at the **Instituto Federal do Rio Grande do Sul**
 - 👨🏽‍💻 Backend Developer, sometimes Frontend too.
 - 💻 Mid level developer
 - ☕ Java ❤️ JavaScript
-- 🌱 I'm currently learning ,`Java`,`Node` and `TypeScript`
 
 <div style="display: inline_block">
   <img align="center" alt="Gio-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
