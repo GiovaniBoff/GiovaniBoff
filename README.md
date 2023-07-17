@@ -2,7 +2,7 @@
 
 - 📚 I'm student in the Internet Systems course at the **Instituto Federal do Rio Grande do Sul**
 - 👨🏽‍💻 Backend Developer, sometimes Frontend too.
-- 💻 In transition from Junior to mid level
+- 💻 Mid level developer
 - ☕ Java ❤️ JavaScript
 - 🌱 I'm currently learning ,`Java`,`Node` and `TypeScript`
 
