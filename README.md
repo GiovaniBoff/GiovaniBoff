@@ -2,7 +2,7 @@
 
 - 📚 I'm graduated in internet systems at the at the **Instituto Federal do Rio Grande do Sul**
 - 👨🏽‍💻 Backend Developer.
-- 💻 Mid level developer in Kabum!
+- 💻 Mid level developer at [Kabum!] (https://www.kabum.com.br)
 - ☕ Java ❤️ JavaScript
 
 <div style="display: inline_block">
