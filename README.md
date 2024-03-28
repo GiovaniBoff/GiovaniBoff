@@ -1,8 +1,8 @@
 ### Hi, I'm Giovani! 👋
 
 - 📚 I'm graduated in internet systems at the at the **Instituto Federal do Rio Grande do Sul**
-- 👨🏽‍💻 Backend Developer, sometimes Frontend too.
-- 💻 Mid level developer
+- 👨🏽‍💻 Backend Developer.
+- 💻 Mid level developer in Kabum!
 - ☕ Java ❤️ JavaScript
 
 <div style="display: inline_block">
